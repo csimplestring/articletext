@@ -1,4 +1,4 @@
-module csimplestring/articletext
+module github.com/csimplestring/articletext
 
 go 1.15
 
